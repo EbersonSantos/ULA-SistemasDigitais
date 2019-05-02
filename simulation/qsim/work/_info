@@ -1,0 +1,111 @@
+m255
+K3
+z0
+13
+cModel Technology
+dC:\Users\Usuário\Documents\ULA\simulation\qsim
+vhard_block
+Z0 !s110 1515004323
+!i10b 1
+!s100 0XkIk649NJlz1lZWHTTiI2
+IX2MUVh31gTGI[cW9NMKi<3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/UFRPE/3°P/Sistemas Digitais/Projeto-ULA/ULA/simulation/qsim
+Z3 w1515004309
+Z4 8ULA.vo
+Z5 FULA.vo
+L0 1889
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1515004322.000000
+Z8 !s107 ULA.vo|
+Z9 !s90 -work|work|ULA.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vULA
+R0
+!i10b 1
+!s100 Yk^HjS0T3XUZiL:lZ2R;b3
+IanKGY8TIB[zelh=YCdcEE2
+R1
+R2
+R3
+R4
+R5
+L0 31
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@u@l@a
+vULA_vlg_check_tst
+!i10b 1
+!s100 @_oe=Ie4I@6>[>OAPF9L[1
+I8Nz?Q6:Fi>5fgddQhXb3I3
+V2gcQzc>L]K`DhKi56nMa13
+Z12 dC:\Users\usuario\Downloads\Projeto-ULA\ULA\simulation\qsim
+Z13 w1467406829
+Z14 8ula-wave.vwf.vt
+Z15 Fula-wave.vwf.vt
+L0 61
+Z16 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z17 !s108 1467406836.544000
+Z18 !s107 ula-wave.vwf.vt|
+Z19 !s90 -work|work|ula-wave.vwf.vt|
+!s101 -O0
+Z20 o-work work -O0
+n@u@l@a_vlg_check_tst
+vULA_vlg_sample_tst
+!i10b 1
+!s100 95bzigJMYCL=bFo4S3;OF3
+InHfE9nXgi3V=cGzHalPTV1
+VR84VEFie@K0_]i1HkORzH0
+R12
+R13
+R14
+R15
+Z21 L0 29
+R16
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R20
+n@u@l@a_vlg_sample_tst
+vULA_vlg_vec_tst
+R0
+!i10b 1
+!s100 A=_F?nE;X5]8dhYhNGf<L3
+Id8BmjYnaVEo4QeB3N0AeT3
+R1
+R2
+w1515004299
+8a-x-4-wave.vwf.vt
+Fa-x-4-wave.vwf.vt
+R21
+R6
+r1
+!s85 0
+31
+!s108 1515004323.000000
+!s107 a-x-4-wave.vwf.vt|
+!s90 -work|work|a-x-4-wave.vwf.vt|
+!i113 1
+R10
+R11
+n@u@l@a_vlg_vec_tst
